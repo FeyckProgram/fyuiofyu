@@ -1,0 +1,55 @@
+<!Doctipe html>
+
+<head>
+
+<title>Сайт</title>
+<meta charset="UTF-8 ">
+</head>
+<body> 
+<strong>Здравствуйте дорогие друзья</strong>
+<h1>Расписание</h1>
+<img src="image/bb.jpg" alt="Ёимия">
+<p><figcaption>Это Ёимия игровой персонаж игры Genshin Impact </figcaption></p>
+<p><em>Здесь будет</em></p>
+<ol>
+ <li>публиковаться</li> 
+ <li>рассписание занятий</li>
+ <li>моего</li> 
+ <li>колледжа</li>
+ </ol>
+ <ul>
+ <li>публиковаться</li> 
+ <li>рассписание занятий</li>
+ <li>моего</li> 
+ <li>колледжа</li>
+ </ul>
+ <dl>
+ <dt>публиковаться</dt> 
+ <dd>Публиковаться - это означает</dd>
+ </dl>
+ <table>
+	<tr>
+		<th>Россия</th>
+	</tr>
+	<tr>
+		<td>Лучшая страна!!!</td>
+	</tr>
+ </table>
+ <form action="" method="post">
+<p><label>имя пользователя<input type="text" name="uesrname"></label></p>
+<p>пароль<input type="password" name="password"></p>
+<p>Адрес электронной почты<input type="email" name="email"></p>
+<p>ваше сообщение</p>
+<p><textarea name=message coll="17" rows="7"></textarea><</p>
+<p>Хотите-ли вы вернуться назад и посмотреть еще раз?</p>
+<p>Да<input type="radio" name="istochnik" value="otvet"></p>
+<p>Нет<input type="radio" name="istochnik" value="otvet"></p>
+<input type="submit" value="Подтвердить">
+<p>Каких персонажей в Genshin Impact  вы считаете сильными?</br>
+<p>Youimiya<input type="checkbox" name="personaj" value="chelovek" checked></p>
+<p>Gan Youy<input type="checkbox" name="personaj" value="chelovek"></p>
+<p>Hu Tao<input type="checkbox" name="personaj" value="chelovek"></p>
+</form>
+</body>
+
+</html> 
